@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/preview/hero.png" alt="Flutter Game — ilustrasi game arcade 2D dengan Flame" width="100%">
+  <img src="docs/preview/hero.svg" alt="Flutter Game — ilustrasi game arcade 2D dengan Flame" width="100%">
 </p>
 
 <h1 align="center">Flutter Game — Flame</h1>
